@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfe17e17-3205-4f53-9c52-dd71779680ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/php-module2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/application-to-read-numbers-into-words/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/calculator-application/.idea/calculator-application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/calculator-application/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/calculator-application/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/calculator-application/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/calculator-application/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/currency-conversion-application/.idea/currency-conversion-application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/currency-conversion-application/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/currency-conversion-application/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/currency-conversion-application/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/currency-conversion-application/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/display-arbitrary-number-of-first-prime-numbers/.idea/display-arbitrary-number-of-first-prime-numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/display-arbitrary-number-of-first-prime-numbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/display-arbitrary-number-of-first-prime-numbers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/display-arbitrary-number-of-first-prime-numbers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/display-arbitrary-number-of-first-prime-numbers/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/future-value-calculator-application/.idea/future-value-calculator-application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/future-value-calculator-application/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/future-value-calculator-application/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/future-value-calculator-application/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/future-value-calculator-application/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/product-discount-calculator-application/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/product-discount-calculator-application/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/product-discount-calculator-application/.idea/product-discount-calculator-application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/product-discount-calculator-application/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson1/product-discount-calculator-application/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/combine-array/.idea/combine-array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/combine-array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/combine-array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/combine-array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/combine-array/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/count-the-number-of-occurrences-of-characters-in-the-string/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/create-a-layout-for-the-website/content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/create-a-layout-for-the-website/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/create-a-layout-for-the-website/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/create-a-layout-for-the-website/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/delete-part-from-array/.idea/delete-part-from-array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/delete-part-from-array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/delete-part-from-array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/delete-part-from-array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/delete-part-from-array/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/display-a-message-if-the-user-enters-an-invalid-index/.idea/display-a-message-if-the-user-enters-an-invalid-index.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/display-a-message-if-the-user-enters-an-invalid-index/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/display-a-message-if-the-user-enters-an-invalid-index/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/display-a-message-if-the-user-enters-an-invalid-index/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/display-a-message-if-the-user-enters-an-invalid-index/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/displays-a-message-if-the-user-enters-an-invalid-number/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/filter-customer-list/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-largest-element-in-the-two-dimensional-array/.idea/find-the-largest-element-in-the-two-dimensional-array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-largest-element-in-the-two-dimensional-array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-largest-element-in-the-two-dimensional-array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-largest-element-in-the-two-dimensional-array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-largest-element-in-the-two-dimensional-array/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-in-the-array-using-the-method/.idea/find-the-smallest-value-in-the-array-using-the-method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-in-the-array-using-the-method/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-in-the-array-using-the-method/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-in-the-array-using-the-method/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-in-the-array-using-the-method/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-of-the-array-from-the-keyboard/.idea/find-the-smallest-value-of-the-array-from-the-keyboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-of-the-array-from-the-keyboard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-of-the-array-from-the-keyboard/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-of-the-array-from-the-keyboard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/find-the-smallest-value-of-the-array-from-the-keyboard/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/sum-the-numbers-in-a-given-column/way-two.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/sum-the-numbers-in-the-main-diagonal-of-the-square-matrix/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/sum-the-numbers-in-the-main-diagonal-of-the-square-matrix/sum-and-print-the-height-and-width.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/user-registration-page/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson2/user-registration-page/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-a-stopWatch-class/.idea/building-a-stopWatch-class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-a-stopWatch-class/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-a-stopWatch-class/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-a-stopWatch-class/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-a-stopWatch-class/StopWatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-a-stopWatch-class/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-fan-class/Fan.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/building-fan-class/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/quadratic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/quadratic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/quadratic/.idea/quadratic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/quadratic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/quadratic/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/quadratic/quadraticEquation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson3/rectangle-layer/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/circle-class-and-cylinder-class/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/circle-class-and-cylinder-class/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/grade-point-and-moveablePoint/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/point2D-class-and-point3D-class/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/point2D-class-and-point3D-class/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/point2D-class-and-point3D-class/.idea/point2D-class-and-point3D-class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/point2D-class-and-point3D-class/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/point2D-class-and-point3D-class/Point2D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/point2D-class-and-point3D-class/Point3D.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/point2D-class-and-point3D-class/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/practice-system-of-geometric-objects/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/practice-system-of-geometric-objects/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/practice-system-of-geometric-objects/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/practice-system-of-geometric-objects/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/practice-system-of-geometric-objects/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson4/triangle-class-design-and-implementation/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/animal-and-edible-interface-classes/Animals/Chicken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/animal-and-edible-interface-classes/Fruits/Apple.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/animal-and-edible-interface-classes/Fruits/Orange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/animal-and-edible-interface-classes/InterfaceClass/Edible.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/deploy-the-colorable-interface-for-geometry-classes/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/deploy-the-colorable-interface-for-geometry-classes/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/deploy-the-colorable-interface-for-geometry-classes/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/implement-the-comparable-interface-for-geometric-classes/Comparable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/implement-the-comparable-interface-for-geometric-classes/ComparableCircle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/implement-the-interface-comparator-to-compare-geometry-classes/Comparable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson5/implement-the-resizeable-interface-for-geometry-classes/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-methods-of-ArrayList/MyList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-methods-of-ArrayList/MyListTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-simple-LinkedList-class/LinkList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-simple-list-class/AraayList2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-simple-list-class/ArrayList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-simple-list-class/arrayListTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-the-methods-of-LinkedList/LinkedList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson6/deploy-the-methods-of-LinkedList/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../refactoring-separating-the-method/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../refactoring-variable-name-and-constant-separation/calculator-test/CalculatorTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TennisGame.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TennisGame.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="52" column="45" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Constant.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hic.php" />
+        <option value="$PROJECT_DIR$/Constant.php" />
+        <option value="$PROJECT_DIR$/TennisGame.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/refactoring.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="refactoring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="refactoring" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfe17e17-3205-4f53-9c52-dd71779680ad" name="Default Changelist" comment="" />
+      <created>1560504827120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560504827120</updated>
+      <workItem from="1560504828330" duration="1785000" />
+      <workItem from="1560675129693" duration="460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2245000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hic.php" />
+    <entry file="file://$PROJECT_DIR$/Constant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TennisGame.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="45" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
